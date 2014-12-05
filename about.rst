@@ -2,9 +2,9 @@
     :description: The name Technigami comes from the blending of technology with origami.  We work together with you to help you with your digital strategy, and take advantage of the many tools now available to improve the efficiency of your business, how you communicate with your customers
 
 .. image:: /static/img/oakland_lakemerrit_1.jpg
-   :class: leading_image
+   :class: leading_image, parallax
     
-.. class:: summary
+.. class:: transparent white
 
 About Technigami
 ================

@@ -1,5 +1,5 @@
-.. image:: /static/img/oakland_lakemerrit_1.jpg
-   :class: leading_image
+.. image:: /static/img/sanfrancisco.jpg
+   :class: second_image parallax
    
 .. class:: summary
 
